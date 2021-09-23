@@ -7,3 +7,4 @@ Feel free to include any contact info as well. Thank you.
 
 
 Ting Fu Kevin Tsai 101031370 kevin791129@gmail.com
+Javier Jiménez Cañizares 101371877 jajc9@outlook.com
