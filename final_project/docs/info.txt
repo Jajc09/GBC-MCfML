@@ -1,5 +1,23 @@
+________________________________________________________________________________________________________________
+Info about games (Nepluis topic proposal)
+________________________________________________________________________________________________________________
 About RAWG:
 https://rawg.io/apidocs
 
 About the dataset: 
-https://www.kaggle.com/jummyegg/rawg-game-dataset
+1. https://www.kaggle.com/jummyegg/rawg-game-dataset
+2. https://www.kaggle.com/abcsds/pokemon
+
+________________________________________________________________________________________________________________
+Info about credit score (Javier topic proposal)
+________________________________________________________________________________________________________________
+About the dataset:
+https://www.kaggle.com/rikdifos/credit-card-approval-prediction/tasks?taskId=1416 
+(there is not Y variable) 
+
+________________________________________________________________________________________________________________
+Info about gender recognition by voice (Javier topic proposal)
+________________________________________________________________________________________________________________
+About the dataset:
+https://www.kaggle.com/primaryobjects/voicegender
+
