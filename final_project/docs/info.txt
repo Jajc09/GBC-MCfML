@@ -1,0 +1,5 @@
+About RAWG:
+https://rawg.io/apidocs
+
+About the dataset: 
+https://www.kaggle.com/jummyegg/rawg-game-dataset
